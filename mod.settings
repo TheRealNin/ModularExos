@@ -1,0 +1,17 @@
+name        = "Modular Exos"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[Modular Exos, originally by Scatter with special permission
+
+Nin: I'd like to try that
+Scatter: use the mod as you want
+Nin: Use?
+Scatter: yeah as in you can use anything you want from my mods
+Scatter: it doesnt work anymore anyway
+Nin: :O
+
+
+Well now it works!]=]
+image       = "preview.jpg"
+tag_modtype = "Gameplay Tweak"
+tag_support = "Must be run on Server"
