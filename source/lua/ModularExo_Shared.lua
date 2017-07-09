@@ -153,6 +153,10 @@ function ModularExo_GetIsConfigValid(config)
         return false, "not enough power"
     end
     
+    if GetGameInfoEntity and GetGameInfoEntity() and GetGameInfoEntity():GetWarmUpActive() then 
+        resourceCost = 0 
+    end
+    
     -- This config is valid
     -- Return true, to indicate that
     -- Also return the power supply and power cost, in case the GUI needs those values
