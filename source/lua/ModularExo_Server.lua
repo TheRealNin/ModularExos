@@ -1,7 +1,6 @@
 
 Script.Load("lua/ModularExo_Shared.lua")
 
-Script.Load("lua/ModularExo_ConsoleCommands_Server.lua")
 
 local function OnMessageExoModularBuy(client, message)
     local player = client:GetControllingPlayer()
