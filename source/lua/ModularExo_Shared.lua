@@ -15,6 +15,7 @@ Script.Load("lua/Weapons/Marine/Claw.lua")
 Script.Load("lua/ModularExo_ShieldProjectorMixin.lua")
 
 Script.Load("lua/ModularExo_Exo.lua")
+Script.Load("lua/ModularExo_ReadyRoomExo.lua")
 Script.Load("lua/ModularExo_Exosuit.lua")
 Script.Load("lua/ModularExo_Marine.lua")
 Script.Load("lua/ModularExo_PrototypeLab.lua")
